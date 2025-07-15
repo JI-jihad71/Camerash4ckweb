@@ -1,1 +1,1 @@
-# Camerash4ckweb
+# ninja-cam
